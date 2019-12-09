@@ -12,5 +12,8 @@ public class Hello(){
         System.out.println("Hello, myself!");
         System.out.println("Hello, myself!");
         System.out.println("Hello, myself!");
+        String s = "Hello,";
+        String s2 = "World!";
+        System.out.println(s+s2);
     }
 }
