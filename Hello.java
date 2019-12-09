@@ -9,5 +9,8 @@ public class Hello(){
         System.out.println("Hello, myself!");
         System.out.println("Hello, myself!");
         System.out.println("Hello, myself!");
+        System.out.println("Hello, myself!");
+        System.out.println("Hello, myself!");
+        System.out.println("Hello, myself!");
     }
 }
